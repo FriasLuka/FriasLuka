@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 # horarios
 
 
-| Hora | Lunes | Martes | Miercoles | Jueves |   |
-|------|-------|--------|-----------|--------|---|
-| 7:00 |       |        |           |        |   |
-|      |       |        |           |        |   |
-|      |       |        |           |        |   |
-|      |       |        |           |        |   |
-|      |       |        |           |        |   |
+| Hora        | Lunes                 | Martes                           | Miercoles                        | Jueves                           | Viernes                          |
+|-------------|-----------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| 7:00-7:50   | Comunidades Virtuales | Mantenimiento de redes y computo | Mantenimiento de redes y computo |                                  | Mantenimiento de redes y computo |
+| 7:55-8:45   |         Fisica        |                                  |                                  |                                  |                                  |
+| 8.50-9:40   |      Metematicas      |              Fisica              |                                  |                                  |                                  |
+| 9:45-10:35  |       Literatura      |                                  |              Fisica              | Mantenimiento de redes y computo |              Fisica              |
+|      R      |           E           |                 C                |                 E                |                 S                |                 O                |
+| 11:05-11:55 |         Ingles        |       Comunidades Virtuales      |                                  |                                  |                                  |
+| 12:00-12:50 |        Historia       |       Comunidades Virtuales      |                                  |                                  |                                  |
+| 12:55-13:45 |                       |                                  |                                  |                                  |                                  |
